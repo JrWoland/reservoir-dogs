@@ -1,0 +1,17 @@
+{
+  "name": "reservoir-dogs",
+  "version": "1.0.0",
+  "description": "Reservoir Dogs webApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reservoir",
+    "dogs",
+    "game",
+    "community"
+  ],
+  "author": "Marcin Kozicki",
+  "license": "ISC"
+}
